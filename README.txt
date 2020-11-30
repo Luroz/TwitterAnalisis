@@ -1,4 +1,4 @@
-This project corresponds to my university Software Engineering thesis. In my thesis I tried to prove that it is possible to use low-normal consting range computers to perform a Sentiment Analysis using the Twitter API and Apache Flume to stream the tweets and meature de processing times.
+This project corresponds to my university Software Engineering thesis. In my thesis I tried to prove that it is possible to use low-medium consting range computers to perform a Sentiment Analysis using the Twitter API and Apache Flume to stream the tweets and meature the processing times.
 
 The code and its corresponding JAR file running in the hadoop framerwork is located in the MarketingAnalysis Folder.
 
